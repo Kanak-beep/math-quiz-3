@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-image: url("https://img.favpng.com/0/11/4/polygon-geometry-plane-desktop-wallpaper-png-favpng-e7CGay7DssGUF8FwFkeWviuCM.jpg");
+    background-size: cover;
+}
+
+label{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#div1, #div2{
+    border-style: double;
+    border-width: 0.50cm;
+}
+
+button{
+    background-color: rebeccapurple;
+    border-style: ridge;
+    border-width: 0.009cm;
+    border-radius: 50cm;
+}
